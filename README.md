@@ -2,7 +2,7 @@
 
 This repository contain the code used in 02456 - Deep learning. Project 11.
 
-The zip files test_frame.zip and test.zip should be extracted before running the notebook.
+The zip files test_frame.zip and test.zip in the data folder should be extracted before running the notebook.
 
 The files single_layer_net.h5 and multiple_layer_net.h5 contain the trained models described in the paper. These are used to test the classification accuracy, generate confusion matrix and predict ball location on frames.
 
